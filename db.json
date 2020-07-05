@@ -92,6 +92,40 @@
         "password": "123456",
         "id": 14
       }
+    ],
+    "favorites": [
+      {
+        "id": 1,
+         "status":"cfdfsdf",
+         "name":"dasdads",
+         "poster_path":"dadasda"
+
+      },
+      {
+        "id": 2,
+        "status":"cfdfsdf",
+        "name":"dasdads",
+        "poster_path":"dadasda"
+      },
+      {
+        "id": 3,
+        "status":"cfdfsdf",
+        "name":"dasdads",
+        "poster_path":"dadasda"
+      },
+      {
+        "id": 4,
+        "status":"cfdfsdf",
+        "name":"dasdads",
+        "poster_path":"dadasda"
+      },
+      {
+        "id": 5,
+        "status":"cfdfsdf",
+        "name":"dasdads",
+        "poster_path":"dadasda"
+      }
+      
     ]
   }
 
