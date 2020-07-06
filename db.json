@@ -126,6 +126,55 @@
         "poster_path":"dadasda"
       }
       
+    ],
+    "profile": [
+      {
+        "id": 1,
+        "name":"Perfil Principal",
+        "avatar":"https://api.adorable.io/avatars/285/abott@adorable.png",
+        "movieGenre":[
+          "drama",
+          "terror",
+          "comédia"
+        ]
+      },
+      {
+        "id": 2,
+        "name":"Perfil Secundario",
+        "avatar":"https://api.adorable.io/avatars/285/abott@adorable.png",
+        "movieGenre":[
+          "romance",
+          "comédia"
+        ]
+      },
+      {
+        "id": 3,
+        "name":"Perfil 3",
+        "avatar":"https://api.adorable.io/avatars/285/abott@adorable.png",
+        "movieGenre":[
+          "romance",
+          "comédia"
+        ]
+      },
+      {
+        "id": 4,
+        "name":"Perfil 4",
+        "avatar":"https://api.adorable.io/avatars/285/abott@adorable.png",
+        "movieGenre":[
+          "ficção",
+          "comédia"
+        ]
+      },
+      {
+        "email": "hp.helenapaixao@gmail.com",
+        "password": "123456",
+        "id": 13
+      },
+      {
+        "email": "hp.helenapaixao@gmail.com",
+        "password": "123456",
+        "id": 14
+      }
     ]
   }
 
