@@ -5,7 +5,7 @@
         "name": "Helena Paixão",
         "email": "hp.helenapaixao@gmail.com",
         "password": "123456",
-        "avatar_url": "https://api.adorable.io/avatars/285/abott@adorable.png",
+        "avatar_url": "https://avatars.dicebear.com/4.5/api/human/example.svg",
           "date":"11/10/99",
           "profile":{
               "avatar_url":"https://avatars.dicebear.com/4.5/api/human/example.svg",
@@ -18,7 +18,7 @@
         "name": "Neymar",
         "email": "neymar@teste.com.br",
         "password": "123456",
-        "avatar_url": "https://api.adorable.io/avatars/285/abott@adorable.png",
+        "avatar_url": "https://avatars.dicebear.com/4.5/api/human/example.svg,
         "date":"11/10/99",
         "profile":{
             "avatar_url":"https://avatars.dicebear.com/4.5/api/human/example.svg",
@@ -31,7 +31,7 @@
         "name": "octocat",
         "email": "teste@teste.com.br",
         "password": "123456",
-        "avatar_url": "https://randomuser.me/api/portraits/men/75.jpg",
+        "avatar_url": "https://avatars.dicebear.com/4.5/api/human/example.svg",
         "date":"12/10/99",
         "profile":{
             "avatar_url":"https://avatars.dicebear.com/4.5/api/human/example.svg",
@@ -44,7 +44,7 @@
         "name": "Leo Arnold",
         "email": "leo.arnold@example.com",
         "password": "123456",
-        "avatar_url": "https://randomuser.me/api/portraits/men/11.jpg",
+        "avatar_url": "https://avatars.dicebear.com/4.5/api/human/example.svg",
         "date":"11/12/99",
         "profile":{
             "avatar_url":"https://avatars.dicebear.com/4.5/api/human/example.svg",
@@ -57,7 +57,7 @@
         "name": "Alan Gonzalez",
         "email": "alan.gonzalez@example.com",
         "password": "123456",
-        "avatar_url": "https://randomuser.me/api/portraits/men/68.jpg",
+        "avatar_url": "https://avatars.dicebear.com/4.5/api/human/example.svg",
         "date":"09/12/99",
         "profile":{
             "avatar_url":"https://avatars.dicebear.com/4.5/api/human/example.svg",
